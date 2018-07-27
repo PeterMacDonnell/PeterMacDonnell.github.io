@@ -36,7 +36,7 @@
   }
 
   #leftSection {
-    padding: 70px;
+    padding: 80px;
     float: left;
     color: #777;
     background:#ebebeb  ;
@@ -45,7 +45,7 @@
   }
 
   #article {
-    padding:70px;
+    padding:168.5px;
     color:#ebebeb;
     background:#777;
     position: relative;
@@ -53,29 +53,34 @@
 
   #littleBoxOne {
     position: absolute;
-    bottom: 40px;
-    right: 50px;
+    bottom: 140px;
+    right: 42.5px;
     color:#777;
     background:#ebebeb;
     padding: 40px;
+    width:90%;
+    
   }
 
   #littleBoxTwo {
     position: absolute;
     bottom: 20px;
+    right:42.5px;
     color:#777;
     background:#ebebeb;
     padding: 40px;
     margin-top:20px;
+    width:90%;
   }
 
   
   #aside {
-    padding: 257.75px;
+    padding: 170px;
     float: right;
     color: #777;
     background:#ebebeb;
-    width:32%;
+    width:33%;
+    height:533.5px;
 
   }
 
